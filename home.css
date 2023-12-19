@@ -1,0 +1,44 @@
+.s{
+background:url(girl.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+background-position: center;
+background-image:fill ;
+}
+.button {
+  border-radius: 40px; 
+  color: #da5d5d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: inherit;
+  margin-left: 4px 2px;
+  cursor: pointer;
+}
+.button {
+  background-color: #242222; 
+  color: #e55252; 
+  border: 2px solid hsl(180, 2%, 12%);
+}
+.button:hover {
+  background-color: #424544;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+button{
+  background-color: rgb(38, 36, 36);
+  scroll-margin-right: 10px;
+  border-radius: 10px;
+}
+.container {
+  position: relative;
+  text-align: left;
+  color: rgb(17, 13, 13);
+}
+h1{
+  color: rgb(32, 34, 36);
+  font-family:monospace;
+  font-size: 500%;
+}
